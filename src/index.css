@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.small-image{
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
+.medium-image{
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 450px;
+}
+.big-image{
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 850px;
+}
